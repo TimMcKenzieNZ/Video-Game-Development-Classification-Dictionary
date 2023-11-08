@@ -1,0 +1,91 @@
+expert involvement. 
+
+
+learning outcome alignment. 
+
+
+system analysis. 
+
+
+affordances of materials. 
+
+
+client buy-in. 
+
+
+Client Communication. 
+
+
+Managing Scope. 
+
+
+Keeping to Budget. 
+
+
+Team Communication. 
+
+
+Technical Limitations. 
+
+
+Communication. 
+
+
+Perserverence. 
+
+
+Flexibility. 
+
+
+Transparency. 
+
+
+Kindness. 
+
+
+Punchy Elevator Pitch. 
+
+
+Simple Game Design. 
+
+
+Extensible Game Design. 
+
+
+Well-Written Prose. 
+
+
+Player Feedback. 
+
+
+Well documented game scripting APIs and examples to build on. 
+
+
+Pull request/merge request branching workflow in Git. 
+
+
+Alignment and agreement of team on narrative and setting. 
+
+
+Iterative workflow with clear deadlines and accountability. 
+
+
+High degree of modularity in game systems and narrative systems. 
+
+
+Scope management. 
+
+
+Public testing. 
+
+
+Constant internal play testing. 
+
+
+Automated testing. 
+
+
+System/process re-use. 
+
+
+Agile. 

@@ -1,0 +1,118 @@
+Team Communication. 
+
+
+Narrative Design. 
+
+
+Pre-Production. 
+
+
+Game Mechanics. 
+
+
+Target Audience. 
+
+
+client communication. 
+
+
+testing time. 
+
+
+lack of client feedback. 
+
+
+project management method. 
+
+
+budget constraints. 
+
+
+Client Communication. 
+
+
+Limiting Scope. 
+
+
+Managing expectations. 
+
+
+Budgeting. 
+
+
+QA Testing. 
+
+
+Monetisation. 
+
+
+Marketing. 
+
+
+Setting a release date. 
+
+
+Weekly Updates. 
+
+
+Lack of training. 
+
+
+Underresourced QA. 
+
+
+Priced Too Low. 
+
+
+Technical Debt. 
+
+
+Poor Work-Life Balance.	
+
+
+Underresourced Community Management. 
+
+
+Platform APIs missing needed features. 
+
+
+Inexperienced team members needing extra support to understand quality expectations. 
+
+
+Lack of interactive workflows for authoring and testing content changes. 
+
+
+Lack of testing tools for branching narrative state. 
+
+
+Cross platform incompatibilities. 
+
+
+IP management. 
+
+
+DDoS mitigation. 
+
+
+Business model shifting. 
+
+
+Harrassment / cyber abuse. 
+
+
+Team morale. 
+
+
+Trying to make early prototype code cater for too many possibilities, resulting in it being too abstract / overengineered / difficult to read, maintain, or adjust. 
+
+
+Not knowing Unreal Engine well enough to use best practices rather than copy pasting a whole lot of code. 
+
+
+Working as a group of unexperienced game developers with no senior advice. 
+
+
+Not having enough experience with git to avoid issues. 
+
+
+Not dividing work evenly among the team.

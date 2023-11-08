@@ -1,0 +1,115 @@
+Concept Development. 
+
+
+Cinematics / Rendering. 
+
+
+Level Design. 
+
+
+Environment Layout. 
+
+
+Art Direction. 
+
+
+Art direction. 
+
+
+needs scoping. 
+
+
+constructive alignment between outcomes and design. 
+
+
+technology implementation. 
+
+
+player satisfaction. 
+
+
+Graphics. 
+
+
+Meeting hardware specs. 
+
+
+Time management	Communication. 
+
+
+QA Testing. 
+
+
+Released a game. 
+
+
+Good team communication. 
+
+
+Consistent Updates. 
+
+
+Discord Usage. 
+
+
+Training of new members. 
+
+
+Had Established Community. 
+
+
+Original Concept. 
+
+
+Steam was a good fit. 
+
+
+Focused Scope. 
+
+
+Proven Demand. 
+
+
+Clearly-defined concept statement and purpose. 
+
+
+Reasonable scope and complexity. 
+
+
+Motivated engaged team. 
+
+
+Powerful and flexible software and tools. 
+
+
+Strong design constraints. 
+
+
+Creative Direction. 
+
+
+Localization. 
+
+
+Retentive core loop. 
+
+
+Infrastructure scaling. 
+
+
+Budget management. 
+
+
+Team communication. 
+
+
+Rapid prototyping in Unreal Engine 5. 
+
+
+Having clear requirements of each feature to program. 
+
+
+Listening to everyone in the team for innovative ideas. 
+
+
+Using a task management system.
